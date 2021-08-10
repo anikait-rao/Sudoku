@@ -58,7 +58,6 @@ def isValid(grid, i, j, n):
     
     return True
 
-
 def print_solution(grid):
     for i in range(len(grid)):
         if i % 3 == 0 and i != 0:
